@@ -133,3 +133,8 @@ gcloud.json
 # sitemaps
 # apps/www/public/*.xml
 # apps/docs/public/*.xml
+
+# Supabase
+.branches
+.temp
+.env
